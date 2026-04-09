@@ -1,60 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0058A3&height=110&text=Benjamin%20Zhao&fontAlign=4&fontAlignY=48&fontSize=34&fontColor=FFFFFF&desc=Translator%20%C2%B7%20Web%20Designer%20%C2%B7%20ML%20Researcher&descAlign=4&descAlignY=73&descSize=15&descColor=A8CCEC" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=15&duration=3500&pause=1000&color=0058A3&center=false&vCenter=true&width=500&lines=Building+invisible+things+that+last." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0058A3&height=110&text=Benjamin%20Zhao&fontAlign=50&fontAlignY=45&fontSize=34&fontColor=FFFFFF&desc=Translator%20%C2%B7%20Web%20Designer%20%C2%B7%20ML%20Researcher&descAlign=50&descAlignY=68&descSize=15&descColor=A8CCEC" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=reisojamin&style=flat-square&color=0058A3&label=PROFILE+VIEWS)](https://github.com/reisojamin)
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=15&duration=3500&pause=1000&color=0058A3&center=true&vCenter=true&width=500&lines=Building+invisible+things+that+last." alt="Typing SVG" />
 
-<table width="100%" cellpadding="0" cellspacing="1">
-<tr>
-  <td bgcolor="#0058A3">
-    <font color="white"><b>&nbsp;&nbsp;About</b></font>
-  </td>
-</tr>
-<tr><td bgcolor="#F0EFE6">
-<table width="100%" cellpadding="12" cellspacing="0">
+</div>
+
+<br/>
+
+![about](https://img.shields.io/badge/ABOUT-0058A3?style=flat-square)
+
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-**Name**
-Benjamin Zhao
+**Name** &nbsp; Benjamin Zhao
 
-**University**
-Shilin International Studies University
+**University** &nbsp; Shilin International Studies University
 
-**Degree**
-B.A. in English / Chinese Translation & Interpreting
+**Degree** &nbsp; B.A. in English / Chinese Translation & Interpreting
 
 </td>
 <td width="50%" valign="top">
 
-**Career Goal**
-IT Desk Support
+**Career Goal** &nbsp; IT Desk Support
 
-**Active Projects**
-IOTA · Model Training
+**Active Projects** &nbsp; IOTA · Model Training
 
-**Languages**
-English · Chinese
+**Languages** &nbsp; English · Chinese
 
 </td>
 </tr>
 </table>
-</td></tr>
-</table>
 
----
+<br/>
 
-<table width="100%" cellpadding="0" cellspacing="1">
-<tr>
-  <td bgcolor="#1C6BA4">
-    <font color="white"><b>&nbsp;&nbsp;IOTA — Invisible Ownership & Traceability Architecture</b></font>
-  </td>
-</tr>
-<tr><td bgcolor="#EEF4FB">
-<table width="100%" cellpadding="14" cellspacing="0">
-<tr><td>
+![iota](https://img.shields.io/badge/IOTA-1C6BA4?style=flat-square)
+
+**IOTA — Invisible Ownership & Traceability Architecture**
 
 IOTA is a neural watermarking system built for artist copyright protection. It embeds ownership information directly into image content — invisible to the eye, recoverable by any verifier — and survives compression, cropping, and platform re-encoding without degrading to a point of failure.
 
@@ -68,28 +53,15 @@ The system operates in three layers:
 
 Anyone can verify authorship through a public API. The mechanism that produces the watermark is never exposed.
 
-</td></tr>
-</table>
-</td></tr>
-</table>
-
 [![IOTA](https://img.shields.io/badge/IOTA-Private%20Repository-0058A3?style=flat-square&logo=github)](https://github.com/reisojamin)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Active%20Development-1C6BA4?style=flat-square)
 &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
----
+<br/>
 
-<table width="100%" cellpadding="0" cellspacing="1">
-<tr>
-  <td bgcolor="#0058A3">
-    <font color="white"><b>&nbsp;&nbsp;Tools & Stack</b></font>
-  </td>
-</tr>
-<tr><td bgcolor="#F0EFE6">
-<table width="100%" cellpadding="12" cellspacing="0">
-<tr><td>
+![stack](https://img.shields.io/badge/STACK-0058A3?style=flat-square)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 &nbsp;
@@ -104,8 +76,3 @@ Anyone can verify authorship through a public API. The mechanism that produces t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 &nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td></tr>
-</table>
-</td></tr>
-</table>
